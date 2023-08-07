@@ -118,9 +118,14 @@ margin-bottom: 15px;
     color: white;
     margin-top: 60px;
 }
-footer{
+footer section{
     background-color: black;
     color: #60B242;
     text-align: center;
+    }
+    footer{
+    background-color: black;
+    display: flex;
+    align-items: center;
     }
     
